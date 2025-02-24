@@ -1,7 +1,7 @@
 ## Hi👋, I am Tunzira
 
-👩‍🎓 I completed my bachelor's degree in Computer Science and Engineering from East West University.
-🔭 I’m currently working on creating a Planner website for a personal project.
+👩‍🎓 I completed my bachelor's degree in Computer Science and Engineering from East West University.<br />
+🔭 I’m currently working on creating a Planner website for a personal project.<br />
 
 
 
